@@ -1,3 +1,6 @@
+#hello world
+print('Hello World')
+
 # Criação das Variáveis
 nome = 'Lais'
 idade = 24
@@ -16,6 +19,10 @@ print('Meu nome é %s e tenho %i anos.'%(nome,idade))
 
 print('A','L','U','R','A',sep='\n')
 
+print("""Bem-vindo ao Sabor Express!
+      
+      """)
+
 
 pi = 3.14159
 
@@ -27,3 +34,10 @@ print('O valor arredondado de pi é: {:.2f}'.format(pi))
 
 # Utilizando a função round()
 print('O valor arredondado de pi é:', round(pi, 2))
+
+# inputs
+input('Escolha uma opção: ')
+
+# interpolacao de strings
+opcao_escolhida = input('Escolha uma opção: ')
+print(f'Você escolheu a opção: {opcao_escolhida}!')
