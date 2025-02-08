@@ -5,9 +5,11 @@ Este repositório contém uma coleção de exercícios realizados em diversos cu
 ## Estrutura do Repositório
 
 - **/python/**: Cursos e exercícios sobre Python.
-  - Exercícios de Introdução
-  - Exercícios de Estruturas de Controle
-  - Exercícios de Funções
+  - aplicando-orientacao-a-objeto
+  - crie-sua-primeira-aplicacao
+
+- **/machine-learning/**: Cursos sobre Machine Learning.
+  - classificacao-com-sklearn
 
 ## Como Usar
 
