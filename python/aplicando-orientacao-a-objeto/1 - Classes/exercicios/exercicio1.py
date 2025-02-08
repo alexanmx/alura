@@ -1,4 +1,4 @@
-# Crie uma classe chamada Musica com os seguintes atributos e crie 3 objetos definindo cada atributo em cada objeto:
+# Crie uma classe chamada Musica com os seguintes atributos e crie 3 objetos definindo cada atributo
 
 class Musica:
     nome = ''
